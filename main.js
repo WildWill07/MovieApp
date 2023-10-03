@@ -1,5 +1,5 @@
 const APILINK = 'https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=522d495073b5919c1051846bd5183028&page=1';
-const IMG_PATH = 'https://www.themoviedb.org/t/p/w220_and_h330_face';
+const IMG_PATH = 'https://image.tmdb.org/t/p/original';
 const SEARCHAPI = "https://api.themoviedb.org/3/search/movie?&api_key=522d495073b5919c1051846bd5183028&query=";
 
 const main = document.getElementById("section");
