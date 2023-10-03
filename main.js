@@ -37,7 +37,7 @@ function returnMovies(url) {
             center.appendChild(image);
             div_card.appendChild(center);
             div_card.appendChild(title);
-            div_column.appendChild(div_row);
+            div_column.appendChild(div_card);
             div_row.appendChild(div_column);
 
             main.appendChild(div_row);
